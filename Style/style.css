@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #181818;
+}
+
+.header {
+    width: Fill (1, 579px);
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 60px;
+}
+
+li a {
+    display: block;
+    color: #FFF;
+    text-decoration: none;
+}
+.nav-wrapper {
+       width: 1097px;
+        height: 119px;
+        margin: auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    
+}
+
+.header-link-all {
+    display: flex;
+    justify-content: flex;
+    align-items: center;
+    margin: 37.5px 352.5px 37.5px 352.5px;
+}
+
+.header-link  {
+    margin-right: 31px;
+}
+.nav-button {
+    Width: Hug (139px);
+     Height: Fixed (52px); 
+     Top: 33px; 
+     Left: 919px; 
+     Border: 1px; 
+     Padding: 20px,36px,20px,36px;
+     color: #FFFFFF;
+    background-image: none;
+        background: transparent;
+        float: left;
+        background-color: transparent;
+}
+.hero-section {
+    height: 393px;
+    padding: 50px 0 50px 0;
+    gap: 17px;
+    color: #fff;
+    text-align: center;
+}
+.hero-title {
+    margin-top: 25px;
+    margin-bottom: 27px;
+    font-size: 75px;
+}
+
+.hero-text {
+gap: 10px;
+align-items: center;
+margin: 0 auto;
+font-size: 20px;
+}
+
+.hero-button {
+width: Hug (387px); 
+height: Hug (65px);
+ gap: 35px;
+ margin: 0 auto;
+ display: block;
+
+ 
+}
+.hero-button-free {
+    width: Hug (178px); 
+    height: Hug (65px); 
+    padding: 10px 30px 10px 30px;
+    background-color:  #4452FE;
+    color: #FFFFFF;
+}
+
+.hero-button-more {
+    width: Hug (174px); 
+    height: Hug (65px); 
+    padding: 10px 30px 10px 30px; 
+    border: 1px;
+}
+
